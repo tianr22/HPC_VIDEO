@@ -36,3 +36,4 @@ srun --account=a100 --partition=a100 --gres=gpu:1 bash run.sh
 
 ## profile
 ### cogvideoX-5b
+test
